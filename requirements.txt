@@ -1,4 +1,4 @@
-astapi
+Fastapi
 uvicorn
 scikit-learn
 pandas
