@@ -22,7 +22,7 @@ pip install -r requirements.txt
 - Train Model: Run the notebook to preprocess data and train models.
 - Evaluate Model: Compare different algorithms and metrics.
 - Deploy API (Optional):
-- 
+  
 python app.py
 
 Live Deployment: Access the deployed API here 👉 https://machine-learning-6-tkjg.onrender.com/docs
