@@ -40,6 +40,6 @@ Live Deployment: Access the deployed API here 👉 https://machine-learning-6-tk
 📝 MIT License.
 
 ## 📩 Contact
-For queries, email 📧 [email@example.com](abigiyaelias180@gmail.com) or open an issue.
+For queries, email 📧 (abigiyaelias180@gmail.com) or open an issue.
 
 This README keeps it concise, visually appealing, and easy to read! 🚀
