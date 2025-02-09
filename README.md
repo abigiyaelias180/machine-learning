@@ -116,7 +116,7 @@ Run the API using:
 ```sh
 python app.py
 ```
-✅ **Live Deployment:** (https://machine-learning-6-tkjg.onrender.com)
+✅ **Live Deployment:** (https://machine-learning-6-tkjg.onrender.com/docs)
 
 ## 📈 Results
 🏆 **Best model performance:**  
