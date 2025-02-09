@@ -36,9 +36,6 @@ Live Deployment: Access the deployed API here 👉 https://machine-learning-6-tk
 - 📂 Expand dataset for better generalization.
 - 📊 Create a dashboard for visualization.
 
-## 📜 License
-📝 MIT License.
-
 ## 📩 Contact
 For queries, email 📧 (abigiyaelias180@gmail.com) or open an issue.
 
